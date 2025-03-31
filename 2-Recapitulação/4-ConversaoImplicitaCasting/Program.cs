@@ -21,7 +21,7 @@ namespace Course{
             c = 5.1;
             d = (int)c; //Forçar a conversão implicita, dados podem ser perdidos por conta do numero de bytes
 
-            Console.WriteLine(c);
+            Console.WriteLine(d);
         }
     }
 }
